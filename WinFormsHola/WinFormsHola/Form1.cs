@@ -19,7 +19,7 @@ namespace WinFormsHola
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Jelow GitHub");
+            MessageBox.Show("Jallow GitHub");
         }
     }
 }
